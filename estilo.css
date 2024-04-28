@@ -1,0 +1,11 @@
+table{
+    width: 100%;
+}
+table td, table th{
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+}
+caption{
+    font-size: 44px;
+}
